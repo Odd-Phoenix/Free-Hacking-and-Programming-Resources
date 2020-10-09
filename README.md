@@ -55,7 +55,7 @@ You can aslo check out my blog: https://phoenix96.home.blog/
 - [+] [Hacker101](https://www.hacker101.com/)
 - [+] [Nullbyte](https://null-byte.wonderhowto.com/)
 - [+] [Hacking Articles](https://www.hackingarticles.in/)
-- [x] Infosec Twitter
+- [+] Infosec Twitter
 - [+] [GBHackers](https://gbhackers.com/)
 - [+] [The Hackers News](https://thehackernews.com/)
 - [+] [Bugcrowd Blog](https://www.bugcrowd.com/blog/)
