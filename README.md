@@ -6,7 +6,7 @@ If you want to contribute to this list, you are welcome to do so, send a pull re
 
 You can aslo check out my blog: https://phoenix96.home.blog/
 
-## I recommend downloading and using Feedly to get your useful news on different topics, all in one place, it's one of my favorites.
+## I recommend downloading and using [Feedly](https://feedly.com/i/welcome) to get your useful news on different topics, all in one place, it's one of my favorites.
 
 # Hacking Resources
 
