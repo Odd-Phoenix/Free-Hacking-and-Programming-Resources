@@ -190,7 +190,7 @@ You can aslo check out my blog: https://phoenix96.home.blog/
 ## Certifications
 - [+] [Microsoft Technology Associate Developer](https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=certification&roles=developer%2Cdevops-engineer#developer)
 - [+] [Microsoft Certified Solutions Developer](https://docs.microsoft.com/en-us/learn/certifications/mcsd-app-builder-certification)
-- [+] [ Citrix Certified Associate-Virtualization](https://www.globalknowledge.com/us-en/training/certification-prep/brands/citrix/section/virtualization/citrix-certified-associate-virtualization-cca-v/)
+- [+] [Citrix Certified Associate-Virtualization](https://www.globalknowledge.com/us-en/training/certification-prep/brands/citrix/section/virtualization/citrix-certified-associate-virtualization-cca-v/)
 - [+] [AWS Certified Developer-Associate](https://aws.amazon.com/certification/certified-developer-associate/)
 - [+] [AWS Certified Solutions Architect-Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 - [+] [Cloudera](https://www.cloudera.com/about/training/certification.html)
