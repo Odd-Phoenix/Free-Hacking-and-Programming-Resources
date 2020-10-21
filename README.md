@@ -66,8 +66,8 @@ You can aslo check out my blog: https://phoenix96.home.blog/
 - [+] [Google](https://www.google.com/)
 
 ## Podcasts
-- [+] Darknet Diaries
-- [+] Risky Business
+- [+] [Darknet Diaries](https://darknetdiaries.com/)
+- [+] [Risky Business](https://risky.biz/)
 
 ## Labs
 - [+] [Portswigger Web Academy](https://portswigger.net/web-security/all-labs) (Lab for individual vulns & attacks)
@@ -81,7 +81,18 @@ You can aslo check out my blog: https://phoenix96.home.blog/
 - [+] [HackTheBox](https://www.hackthebox.eu/)
 
 ## Certifications
-- [+]
+- [+] [Microsoft Technology Associate (MTA) Security Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/98-367)
+- [+] [Microsoft Technology Associate (MTA) Security Fundamentals](https://www.isaca.org/training-and-events/cybersecurity)
+- [+] [CompTIA Security+](https://www.comptia.org/certifications/security)
+- [+] [(ISC)2 Systems Security Certified Practitioner (SSCP)](https://www.isc2.org/en/Certifications/SSCP)
+- [+] [Cisco CCNA](https://learningnetwork.cisco.com/s/ccna)
+- [+] [CompTIA PenTest+](https://www.comptia.org/certifications/pentest)
+- [+] [Certified Ethical Hacker CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+- [+] [OSCP](https://www.offensive-security.com/pwk-oscp/)
+- [+] [Certified Information System Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
+- [+] [Certified Information Security Manager (CISM)](https://www.isaca.org/credentialing/cism)
+- [+] [Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP)
+- [+] [Computer Hacking Forensic Investigator (CHFI)](https://www.eccouncil.org/programs/computer-hacking-forensic-investigator-chfi/)
 
 # Programming Resources
 
@@ -134,69 +145,78 @@ You can aslo check out my blog: https://phoenix96.home.blog/
 ## Platforms to learn, practice and hone your skills
 
 ## Youtube Channels
-- [+] Traversy Media
-- [+] FreeCodeCamp
-- [+] The Net Ninja
-- [+] Google Chrome Developers
-- [+] The New Boston
-- [+] Derek Banos
-- [+] Academind
+- [+] [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+- [+] [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp)
+- [+] [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [+] [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
+- [+] [The New Boston](https://www.youtube.com/user/thenewboston)
+- [+] [Derek Banos](https://www.youtube.com/user/derekbanas)
+- [+] [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 
 ## Learning Platforms
-- [+] freecodecamp
-- [+] codecademy
-- [+] javascript30
-- [+] frontendmentor
-- [+] coursera
-- [+] khanacademy
-- [+] sololearn
+- [+] [freecodecamp](https://www.freecodecamp.org/)
+- [+] [codecademy](https://www.codecademy.com/)
+- [+] [javascript30](https://javascript30.com/)
+- [+] [frontendmentor](https://www.frontendmentor.io/)
+- [+] [coursera](https://www.coursera.org/)
+- [+] [khanacademy](https://www.khanacademy.org/)
+- [+] [sololearn](https://www.sololearn.com/)
 
 ## Podcasts
-- [+] Syntax
-- [+] Fullstack radio
-- [+] The Changelog
-- [+] The Laracasts Snippet
-- [+] Front End Happy Hour
-- [+] JavaScript Jabber Archives
-- [+] Commit Your Code!
-- [+] Shop Talk
-- [+] Ladybug Podcast
-- [+] CodePen Radio
-- [+] JAMStack Radio
-- [+] Modern Web
+- [+] [Syntax](https://syntax.fm/)
+- [+] [Fullstack radio](https://fullstackradio.com/)
+- [+] [The Changelog](https://changelog.com/podcast)
+- [+] [The Laracasts Snippet](https://laracasts.com/podcast)
+- [+] [Front End Happy Hour](https://frontendhappyhour.com/)
+- [+] [JavaScript Jabber Archives](https://devchat.tv/podcasts/js-jabber/)
+- [+] [Commit Your Code!](https://anchor.fm/commityourcode)
+- [+] [Shop Talk](https://shoptalkshow.com/)
+- [+] [Ladybug Podcast](https://www.ladybug.dev/)
+- [+] [CodePen Radio](https://blog.codepen.io/radio/)
+- [+] [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)
+- [+] [Modern Web](https://www.thisdot.co/modern-web)
 
 ## Coding Challeng Platforms
-- [+] codewars
-- [+] topcoder
-- [+] codingame
-- [+] hackerrank
-- [+] coderbyte
-- [+] codechef
-- [+] projecteuler
-- [+] exercism
-- [+] leetcode
+- [+] [codewars](https://www.codewars.com/)
+- [+] [topcoder](https://www.topcoder.com/)
+- [+] [codingame](https://www.codingame.com/start)
+- [+] [hackerrank](https://www.hackerrank.com/)
+- [+] [coderbyte](https://coderbyte.com/)
+- [+] [codechef](https://www.codechef.com/)
+- [+] [project Euler](https://projecteuler.net/)
+- [+] [exercism](https://exercism.io/)
+- [+] [leetcode](https://leetcode.com/)
 
 ## Certifications
-- [+]
+- [+] [Microsoft Technology Associate Developer](https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=certification&roles=developer%2Cdevops-engineer#developer)
+- [+] [Microsoft Certified Solutions Developer](https://docs.microsoft.com/en-us/learn/certifications/mcsd-app-builder-certification)
+- [+] [ Citrix Certified Associate-Virtualization](https://www.globalknowledge.com/us-en/training/certification-prep/brands/citrix/section/virtualization/citrix-certified-associate-virtualization-cca-v/)
+- [+] [AWS Certified Developer-Associate](https://aws.amazon.com/certification/certified-developer-associate/)
+- [+] [AWS Certified Solutions Architect-Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- [+] [Cloudera](https://www.cloudera.com/about/training/certification.html)
+- [+] [Google Certified Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
+- [+] [Oracle Application Express Developer Certified Expert](https://education.oracle.com/oracle-application-express-18-developer-certified-professional/trackp_750)
+- [+] [ITIL Foundation](https://www.axelos.com/certifications/itil-certifications/itil-foundation)
+- [+] [Certified ScrumMaster](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)
 
 ## Websites/Platforms to find Remote/Freelance jobs
-- [+] toptal
-- [+] upwork
-- [+] freelancer
-- [+] peopleperhour
-- [+] simplyhired
-- [+] fiverr
-- [+] hireable
-- [+] 6nomads
-- [+] flexjobs
-- [+] weworkremotely
-- [+] jobspresso
-- [+] justremote
-- [+] ziprecruiter
-- [+] glassdoor
-- [+] remoteok
-- [+] stackoverflow
-- [+] remoteleaf
-- [+] remotive
+- [+] [toptal]
+- [+] [upwork]
+- [+] [freelancer]
+- [+] [peopleperhour]
+- [+] [simplyhired]
+- [+] [fiverr]
+- [+] [hireable]
+- [+] [6nomads]
+- [+] [flexjobs]
+- [+] [weworkremotely]
+- [+] [jobspresso]
+- [+] [justremote]
+- [+] [ziprecruiter]
+- [+] [glassdoor]
+- [+] [remoteok]
+- [+] [stackoverflow]
+- [+] [remoteleaf]
+- [+] [remotive]
 
 ## Disclaimer: The contributor(s) cannot be held responsible for any misuse of data. This repository is a collection of downloaded ebooks for free, from 3rd party websites, where these books can be downloaded for free.
