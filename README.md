@@ -198,6 +198,7 @@ You can aslo check out my blog: https://phoenix96.home.blog/
 - [+] [Oracle Application Express Developer Certified Expert](https://education.oracle.com/oracle-application-express-18-developer-certified-professional/trackp_750)
 - [+] [ITIL Foundation](https://www.axelos.com/certifications/itil-certifications/itil-foundation)
 - [+] [Certified ScrumMaster](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)
+- [+] [Python Institute](https://pythoninstitute.org/certification/)
 
 ## Websites/Platforms to find Remote/Freelance jobs
 - [+] [toptal]
