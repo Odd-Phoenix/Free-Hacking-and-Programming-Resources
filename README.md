@@ -201,24 +201,24 @@ You can aslo check out my blog: https://phoenix96.home.blog/
 - [+] [Python Institute](https://pythoninstitute.org/certification/)
 
 ## Websites/Platforms to find Remote/Freelance jobs
-- [+] [toptal]
-- [+] [upwork]
-- [+] [freelancer]
-- [+] [peopleperhour]
-- [+] [simplyhired]
-- [+] [fiverr]
-- [+] [hireable]
-- [+] [6nomads]
-- [+] [flexjobs]
-- [+] [weworkremotely]
-- [+] [jobspresso]
-- [+] [justremote]
-- [+] [ziprecruiter]
-- [+] [glassdoor]
-- [+] [remoteok]
-- [+] [stackoverflow]
-- [+] [remoteleaf]
-- [+] [remotive]
+- [+] [toptal]()
+- [+] [upwork]()
+- [+] [freelancer]()
+- [+] [peopleperhour]()
+- [+] [simplyhired]()
+- [+] [fiverr]()
+- [+] [hireable]()
+- [+] [6nomads]()
+- [+] [flexjobs]()
+- [+] [weworkremotely]()
+- [+] [jobspresso]()
+- [+] [justremote]()
+- [+] [ziprecruiter]()
+- [+] [glassdoor]()
+- [+] [remoteok]()
+- [+] [stackoverflow]()
+- [+] [remoteleaf]()
+- [+] [remotive]()
 
 DISCLAIMER
 ==========
