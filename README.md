@@ -220,4 +220,6 @@ You can aslo check out my blog: https://phoenix96.home.blog/
 - [+] [remoteleaf]
 - [+] [remotive]
 
-## Disclaimer: The contributor(s) cannot be held responsible for any misuse of data. This repository is a collection of downloaded ebooks for free, from 3rd party websites, where these books can be downloaded for free.
+DISCLAIMER
+==========
+The contributor(s) cannot be held responsible for any misuse of data. This repository is a collection of downloaded ebooks for free, from 3rd party websites, where these books can be downloaded for free.
