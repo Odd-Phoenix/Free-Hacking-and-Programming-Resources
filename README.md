@@ -30,6 +30,10 @@ You can aslo check out my [blog](https://phoenix96.home.blog/)
 - [+] Computer Hacking, Security Testing, Penetration Testing and Basic Security
 - [+] Hack Any Website
 - [+] Advanced SQL Injection
+- [+] Blue Team Cheat Sheet
+- [+] SQL Injection Attacks and Defence
+- [+] Heroes of The Computer Revolution
+- [+] Hacking Practical Guide for Beginners with Python
 
 ## Platforms to learn, practice and hone your skills
 
