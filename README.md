@@ -4,7 +4,7 @@ A curated list of free hacking, penetration testing and programming related refr
 
 If you want to contribute to this list, you are welcome to do so, send a pull request. All contributions and contributors will be appreciated and recognized.
 
-You can aslo check out my [blog](https://phoenix96.home.blog/)
+You can aslo check out my [blog](https://phoenix96.home.blog/) and join the [Discord server](https://discord.gg/bsmCbu2vPJ)
 
 ### I recommend downloading and using [Feedly](https://feedly.com/i/welcome) to get your useful news on different topics, all in one place, it's one of my favorites.
 
@@ -54,8 +54,12 @@ You can aslo check out my [blog](https://phoenix96.home.blog/)
 - [+] [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 - [+] [Hakluke](https://www.youtube.com/channel/UCCzvz8jsulXm27Cd6k3vzyg)
 - [+] [Cristi Vlad](https://www.youtube.com/user/cristivlad25)
+- [+] [Cover6 Solutions](https://www.youtube.com/channel/UCzT_Rj36cZjqkxJKz4iONtQ)
 
 ## Websites
+- [+] [INE](ine.com)
+- [+] [RangeForce](rangeforce.com)
+- [+] [Picus](picussecurity.com)
 - [+] [Portswigger Web Academy](https://portswigger.net/web-security)
 - [+] [Hacks Planning](https://www.hacksplaining.com/)
 - [+] [Hacker101](https://www.hacker101.com/)
